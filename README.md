@@ -1,0 +1,2 @@
+# ProfanityChecker
+A Python script to detect language of text and filter out the BAD words  I came across one requirement where I was given a large text, say an article, and the task was to filter out any abusive or bad words in that piece of text. Another difficulty of this problem was that the language of the text was not known. The article could have been written in English, Spanish, French or German.
