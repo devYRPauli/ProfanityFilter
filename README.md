@@ -1,7 +1,7 @@
 # Profanity Filter
-A Python script to detect language of text and filter out the BAD words
+Profanity Filter was developed by Yash Raj Pandey along with Samarth Dubey and Aryman Tripati. We completed this project during the tenure of our 4th Semester as our AIA (Artificial Inteliigence and Applications) Project.
 
-I came across one requirement where I was given a large text, say an article, and the task was to filter out any abusive or bad words in that piece of text. Another difficulty of this problem was that the language of the text was not known. The article could have been written in English, Spanish, French or German.
+We came across one such scenario where we were given a large text, say an article, and the task was to filter out any abusive words. Another difficulty of this problem was that the language of the text was not known. The article could have been written in English, Spanish, French or German.
 
 <p>
 	<b>ProfanityFilter.py</b> is a Python script that uses the Natural Language Toolkit (NLTK) Library to solve the above problem statement.<br>
